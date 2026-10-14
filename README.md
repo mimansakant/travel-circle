@@ -1,4 +1,4 @@
-# roamly ✳
+# roamly
 
 A responsive group-travel planning prototype. Create a trip, list friends, choose how much you already know, and collect trip preferences through a survey.
 
